@@ -2,7 +2,7 @@ HOST = '127.0.0.1'
 PORT = '3306'
 DATABASE = 'tracker'
 USERNAME = 'root'
-PASSWORD = '142536'
+PASSWORD = 'your password'
 
 DB_URI = "mysql+pymysql://{username}:{password}@{host}:{port}/{db}?" \
          "charset=utf8".\
